@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **node.js, Express.js, Java**
 
-- 📫 You can reach me **ahamedaathil.5@gmail.com**
+- 📫 You can reach me at **ahamedaathil.5@gmail.com**
 
 - ⚡ Fun fact **"I’ve mastered balancing precision and creativity—whether it's debugging code or curating my next favorite playlist, I bring the same level of detail and passion to both!"**
 
