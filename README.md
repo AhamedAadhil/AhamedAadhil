@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahamedaadhil" alt="ahamedaadhil" /></a> </p>
 
-- 🔭 I’m currently pursuing my Masters in **Computer Science** in Pakistan
+- 🔭 I’m currently pursuing my Masters in **Artifical Inteligence MSc in AI** in PAF-IAST,Pakistan
 
 - 🌱 I’m currently learning **Spring Boot, MERN Stack**
 
